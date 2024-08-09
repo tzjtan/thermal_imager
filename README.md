@@ -5,16 +5,19 @@ This project demonstrates how to pull temperature data (convertable to °C) from
 There exists cheap USB-C thermal imaging camera from Chinese sources though the usage instructions is not very well documented, especially if you wish to integrate it into a larger system and thus need some SDK or API method to use the camera. The Python script in this library demonstrates how to do so.
 
 Below are the capabilities of such a thermal imaging camera.
-![Thermal Image 1](https://github.com/tzjtan/thermal_imager/blob/main/docs/Hot drink.jpg?raw=true)
-![Thermal Image 2](https://github.com/tzjtan/thermal_imager/blob/main/docs/PCB with macro lens.jpg?raw=true)
 
-The camera is sensitive enough to detect a chip [turning on or off](https://github.com/tzjtan/thermal_imager/blob/main/docs/Turning on of component on PCB.mp4?raw=true).
+<img src="https://github.com/tzjtan/thermal_imager/blob/main/docs/PCB%20with%20macro%20lens.jpg" width="400" />
+<img src="https://github.com/tzjtan/thermal_imager/blob/main/docs/Hot%20drink.jpg" width="400" />
+
+
+
+The camera is sensitive enough to detect a chip ![turning on or off](https://github.com/tzjtan/thermal_imager/blob/main/docs/Turning%20on%20of%20component%20on%20PCB.mp4).
 
 ## Works with
 
 | Image | Product Name | Resolution |
 |-------|--------------|------------|
-| ![TOOLTOP T7](https://github.com/tzjtan/thermal_imager/blob/main/docs/Product - TOOLTOP T7 256x192.jpg?raw=true) | TOOLTOP T7 | 256x192 |
+| <img src="https://github.com/tzjtan/thermal_imager/blob/main/docs/Product%20-%20TOOLTOP%20T7%20256x192.jpg?raw=true" width="200" /> | TOOLTOP T7 | 256x192 |
 
 
 ## References
