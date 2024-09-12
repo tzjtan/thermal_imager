@@ -18,7 +18,7 @@ The camera is sensitive enough to detect a chip ![turning on or off](https://git
 | Image | Product Name | Resolution |
 |-------|--------------|------------|
 | <img src="https://github.com/tzjtan/thermal_imager/blob/main/docs/Product%20-%20TOOLTOP%20T7%20256x192.jpg?raw=true" width="200" /> | TOOLTOP T7 | 256x192 |
-
+| <img src="https://github.com/tzjtan/thermal_imager/blob/main/docs/Product%20-%20Topdon%20TC001%20256x192.jpg?raw=true" width="200" /> | Topdon TC001 | 256x192 |
 
 ## References
 
